@@ -20,7 +20,7 @@
 .small-container{
     width: 70%;
     height: 400px;
-     
+    background-color: #1E90FF;
     border:dashed;
 }
 
@@ -65,3 +65,17 @@ padding: 2%;
     border: dashed;
 }
 
+.gray{
+    background-color: #D3D3D3;
+}
+.content{
+    width: 40%;
+    background-color: #FFC0CB;
+    height: 100%;
+    border: dashed;
+}
+
+.flex-end{
+    display: flex;
+    justify-content: flex-end;
+}
